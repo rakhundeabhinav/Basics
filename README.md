@@ -1,29 +1,29 @@
-🔬 Experiment 1: Basic C++ Programs – Hello World, Calculator & Even-Odd
-🎯 Aim
-To understand the fundamentals of C++ programming by writing and executing the following programs:
+Experiment 1: Hello World and Simple Calculator in C++
+🔹 Part A: Hello World Program
+🔹 Aim:
+To write, compile, and execute a simple “Hello World” program in C++.
 
-A simple Hello World program.
+🔹 Theory:
+The "Hello World" program is traditionally used to introduce the basic syntax of a programming language. It demonstrates:
 
-A menu-driven Calculator to perform basic arithmetic operations.
+Structure of a C++ program.
 
-A program to check whether a given number is Even or Odd.
+Usage of #include, main(), and cout.
 
-This experiment helps develop understanding of basic syntax, input/output, conditional statements, and arithmetic logic—essential for future work in Data Structures.
+Outputting text to the console.
 
-🛠️ Tools Used
-Language: C++
+🔹 Part B: Calculator Program
+🔹 Aim:
+To create a simple calculator in C++ that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-Compiler: GCC / Turbo C++
+🔹 Theory:
+A calculator program introduces:
 
-IDE: Visual Studio Code / Code::Blocks / Online GDB
+User input using cin.
 
-📌 Learning Outcomes
-Understand the structure of a basic C++ program.
+Conditional statements (switch or if-else).
 
-Use cin and cout for input and output operations.
+Arithmetic operators (+, -, *, /).
 
-Implement control structures (if-else, switch) and arithmetic operations.
+Error handling (e.g., divide by zero).
 
-Gain confidence in writing and debugging simple C++ code.
-
-# Basics

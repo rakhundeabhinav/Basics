@@ -1,35 +1,42 @@
-Experiment 1: Hello World and Simple Calculator in C++
+🧪 Experiment 1: Hello World and Simple Calculator in C++
 
 🔹 Part A: Hello World Program
 
-🔹 Aim:
-To write, compile, and execute a simple “Hello World” program in C++.
+🔸 Aim
 
-🔹 Theory:
-The "Hello World" program is traditionally used to introduce the basic syntax of a programming language. It demonstrates:
+To write, compile, and execute a basic "Hello World" program in C++.
 
-Structure of a C++ program.
+🔸 Theory
 
-Usage of #include, main(), and cout.
+The Hello World program is a classic starting point for learning any programming language. It helps demonstrate:
 
-Outputting text to the console.
+==> Basic structure of a C++ program
 
-🔹 Part B: Calculator Program
+==> Use of preprocessor directives like #include
 
-🔹 Aim:
-To create a simple calculator in C++ that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+==> The main() function as the entry point
 
-🔹 Theory:
-A calculator program introduces:
+==> Output using cout
 
-User input using cin.
+🔹 Part B: Simple Calculator Program
 
-Conditional statements (switch or if-else).
+🔸 Aim
 
-Arithmetic operators (+, -, *, /).
+To develop a simple calculator in C++ that performs addition, subtraction, multiplication, and division based on user input.
 
-Error handling (e.g., divide by zero).
+🔸 Theory
 
-🔹 Conclusion:
-This experiment introduced the basics of C++ through the Hello World and Calculator programs. It helped me understand syntax, input/output, and simple logic operations, forming a foundation for further C++ learning.
+The calculator program introduces key C++ concepts such as:
+
+==> Taking user input using cin
+
+==> Implementing arithmetic operators: +, -, *, /
+
+==> Using conditional logic (e.g., switch or if-else)
+
+==> Handling errors like division by zero
+
+✅ Conclusion
+
+This experiment provided a hands-on introduction to the basics of C++. The Hello World program helped understand structure and output, while the calculator program introduced user input, logic, and arithmetic. Together, they laid the groundwork for learning more advanced concepts.
 
